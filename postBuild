@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/ntw7d_src/Datasets/Core Assessment/SRMA")' >> /home/jovyan/.Rprofile
